@@ -129,7 +129,7 @@ while True:
         winsound.PlaySound("bounce.wav",winsound.SND_ASYNC)
     
 
-    if score_a==5 or score_b==5:
+    if score_a==10 or score_b==10:
         break
 
 
